@@ -32,7 +32,6 @@
                                     </date>
                                 </datePicker>
                             </subviews>
-                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             <constraints>
                                 <constraint firstAttribute="bottom" secondItem="SUg-U1-bKY" secondAttribute="bottom" constant="18" id="BFv-4x-nTt"/>
                                 <constraint firstAttribute="centerX" secondItem="SUg-U1-bKY" secondAttribute="centerX" id="HX3-eJ-dgx"/>
